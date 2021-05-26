@@ -1,1 +1,1 @@
-# cloudfunctions-upload-iamge
+# cloudfunctions-upload-image
